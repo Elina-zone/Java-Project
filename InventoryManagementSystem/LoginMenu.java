@@ -1,4 +1,4 @@
-import java.util.Scanner;  //Importing Scanner Class
+import java.util.Scanner;  
 
 public class LoginMenu {
     public static void main(String[] args) {
@@ -382,3 +382,4 @@ public class LoginMenu {
 
 
     
+
