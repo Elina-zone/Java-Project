@@ -2,7 +2,7 @@
 
 This repository contains a console-based Inventory Management System implemented in Java. It provides a structured interface for admins and staff to manage the inventory, products, sales, customers, suppliers, and categories in an organized way.
 
-###Key Features:
+#key Features:
 
 User Authentication.
 Admin and Staff login with separate credentials.
@@ -23,7 +23,7 @@ Interactive Menu System:
 User-friendly console menus for easy navigation.
 Clear prompts for actions and input validation.
 
-##########################Technologies Used:
+#Technologies Used:
 
 Java: Core Java for console-based operations.
 Scanner Class for user input handling.
