@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;  //Importing Scanner Class
 
 public class LoginMenu {
     public static void main(String[] args) {
@@ -379,5 +379,6 @@ public class LoginMenu {
         while (staffChoice != 6);
     }
 }
+
 
     
