@@ -23,7 +23,7 @@ Interactive Menu System:
 User-friendly console menus for easy navigation.
 Clear prompts for actions and input validation.
 
-#Technologies Used:
+# Technologies Used:
 
 Java: Core Java for console-based operations.
 Scanner Class for user input handling.
