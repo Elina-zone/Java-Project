@@ -1,8 +1,8 @@
-#Inventory Management System in Java
+# Inventory Management System in Java
 
 This repository contains a console-based Inventory Management System implemented in Java. It provides a structured interface for admins and staff to manage the inventory, products, sales, customers, suppliers, and categories in an organized way.
 
-#key Features:
+# key Features:
 
 User Authentication.
 Admin and Staff login with separate credentials.
